@@ -18,7 +18,7 @@ FinallyReact是一个以灵活性和可用性为理念创建的React设计库。
 
 ## 文档
 
-您可以在[FinallyReact网站](https://finallyreact.com)上找到所有组件、设计和实用工具元素的示例（完全使用FinallyReact构建）。
+您可以在[FinallyReact网站](https://helpful-squirrel-81be57.netlify.app)上找到所有组件、设计和实用工具元素的示例（完全使用FinallyReact构建）。
 
 ### 使用FinallyReact的网站
 - [Humanity Is Evil](https://humanityisevil.com)

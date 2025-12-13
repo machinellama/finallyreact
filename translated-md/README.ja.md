@@ -18,7 +18,7 @@ FinallyReactは、柔軟性と使いやすさを念頭に置いて作られたRe
 
 ## ドキュメンテーション
 
-[FinallyReactウェブサイト](https://finallyreact.com)で、すべてのコンポーネント、デザイン、ユーティリティエレメントの例を見つけることができます（完全にFinallyReactで構築されています）。
+[FinallyReactウェブサイト](https://helpful-squirrel-81be57.netlify.app)で、すべてのコンポーネント、デザイン、ユーティリティエレメントの例を見つけることができます（完全にFinallyReactで構築されています）。
 
 ### FinallyReactを使用しているサイト
 - [Humanity Is Evil](https://humanityisevil.com)

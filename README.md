@@ -18,7 +18,7 @@ FinallyReact is a React design library created with flexibility and usability in
 
 ## Documentation
 
-You can find examples of all component, design, and utility elements on the [FinallyReact website](https://finallyreact.com) (built entirely with FinallyReact).
+You can find examples of all component, design, and utility elements on the [FinallyReact website](https://helpful-squirrel-81be57.netlify.app) (built entirely with FinallyReact).
 
 ### Sites using FinallyReact
 - [Humanity Is Evil](https://humanityisevil.com)

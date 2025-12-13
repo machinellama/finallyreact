@@ -1,13 +1,13 @@
 {
   "name": "finallyreact",
-  "version": "1.14.3",
+  "version": "1.14.4",
   "description": "A simple and customizable design library for React, including a full set of component, style, and utility elements.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/machinellama/finallyreact"
   },
-  "homepage": "https://finallyreact.com",
+  "homepage": "https://helpful-squirrel-81be57.netlify.app",
   "license": "MIT",
   "scripts": {
     "build": "npm run test && webpack",
