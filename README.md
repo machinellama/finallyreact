@@ -3,10 +3,10 @@
 ### Where simplicity meets functionality
 
 [![npm](https://img.shields.io/npm/v/finallyreact.svg?color=005711)](https://www.npmjs.com/package/finallyreact)
-[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ja.md)
-[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.es.md)
-[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ko.md)
-[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.zh-CN.md)
+[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ja.md)
+[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.es.md)
+[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ko.md)
+[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.zh-CN.md)
 
 FinallyReact is a React design library created with flexibility and usability in mind.
 
@@ -21,8 +21,7 @@ FinallyReact is a React design library created with flexibility and usability in
 You can find examples of all component, design, and utility elements on the [FinallyReact website](https://finallyreact.com) (built entirely with FinallyReact).
 
 ### Sites using FinallyReact
-- [FinallyPlanning](https://finallyplanning.com)
-- [dotfinally](https://dotfinally.com)
+- [Humanity Is Evil](https://humanityisevil.com)
 
 ## To use in your project
 
@@ -63,7 +62,7 @@ Note: Ensure your purgecss content includes `node_modules/finallyreact/index.js`
 
 ## License
 
-Copyright © 2023-current `dotfinally, LLC`
+Copyright © 2023-current `machinellama, LLC`
 
 Available under the MIT license, which means anyone can use FinallyReact for free, for any purpose. Read the full license text in the LICENSE.txt file in the repo.
 

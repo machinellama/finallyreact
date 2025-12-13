@@ -3,10 +3,10 @@
 ### シンプルさと機能性の出会い
 
 [![npm](https://img.shields.io/npm/v/finallyreact.svg?color=005711)](https://www.npmjs.com/package/finallyreact)
-[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/README.md)
-[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.es.md)
-[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ko.md)
-[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.zh-CN.md)
+[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.es.md)
+[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ko.md)
+[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.zh-CN.md)
 
 FinallyReactは、柔軟性と使いやすさを念頭に置いて作られたReactデザインライブラリです。
 
@@ -21,8 +21,7 @@ FinallyReactは、柔軟性と使いやすさを念頭に置いて作られたRe
 [FinallyReactウェブサイト](https://finallyreact.com)で、すべてのコンポーネント、デザイン、ユーティリティエレメントの例を見つけることができます（完全にFinallyReactで構築されています）。
 
 ### FinallyReactを使用しているサイト
-- [FinallyPlanning](https://finallyplanning.com)
-- [dotfinally](https://dotfinally.com)
+- [Humanity Is Evil](https://humanityisevil.com)
 
 ## あなたのプロジェクトでの使用
 
@@ -63,7 +62,7 @@ CSSバンドルのサイズを減らすために、PostCSSとPurgeCSSを使用�
 
 ## ライセンス
 
-著作権 © 2023-current `dotfinally, LLC`
+著作権 © 2023-current `machinellama, LLC`
 
 MITライセンスの下で利用可能で、これは誰でも任意の目的で無料でFinallyReactを使用できることを意味します。リポジトリのLICENSE.txtファイルで完全なライセンステキストを読んでください。
 

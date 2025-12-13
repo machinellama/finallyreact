@@ -3,10 +3,10 @@
 ### 简约与功能性的完美结合
 
 [![npm](https://img.shields.io/npm/v/finallyreact.svg?color=005711)](https://www.npmjs.com/package/finallyreact)
-[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/README.md)
-[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ja.md)
-[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.es.md)
-[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ko.md)
+[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/README.md)
+[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ja.md)
+[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.es.md)
+[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ko.md)
 
 FinallyReact是一个以灵活性和可用性为理念创建的React设计库。
 
@@ -21,8 +21,7 @@ FinallyReact是一个以灵活性和可用性为理念创建的React设计库。
 您可以在[FinallyReact网站](https://finallyreact.com)上找到所有组件、设计和实用工具元素的示例（完全使用FinallyReact构建）。
 
 ### 使用FinallyReact的网站
-- [FinallyPlanning](https://finallyplanning.com)
-- [dotfinally](https://dotfinally.com)
+- [Humanity Is Evil](https://humanityisevil.com)
 
 ## 在您的项目中使用
 
@@ -63,7 +62,7 @@ export default {
 
 ## 许可证
 
-版权所有 © 2023-current `dotfinally, LLC`
+版权所有 © 2023-current `machinellama, LLC`
 
 根据MIT许可证提供，这意味着任何人都可以免费使用FinallyReact，用于任何目的。在仓库中的LICENSE.txt文件中阅读完整的许可证文本。
 

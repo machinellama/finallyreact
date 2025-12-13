@@ -3,10 +3,10 @@
 ### 단순함이 기능성을 만나는 곳
 
 [![npm](https://img.shields.io/npm/v/finallyreact.svg?color=005711)](https://www.npmjs.com/package/finallyreact)
-[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/README.md)
-[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ja.md)
-[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.es.md)
-[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.zh-CN.md)
+[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/README.md)
+[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ja.md)
+[![es](https://img.shields.io/badge/lang-Spanish-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.es.md)
+[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.zh-CN.md)
 
 FinallyReact는 유연성과 사용성을 염두에 두고 만들어진 React 디자인 라이브러리입니다.
 
@@ -21,8 +21,7 @@ FinallyReact는 유연성과 사용성을 염두에 두고 만들어진 React �
 [FinallyReact 웹사이트](https://finallyreact.com)에서 모든 컴포넌트, 디자인 및 유틸리티 요소의 예시를 찾을 수 있습니다 (전적으로 FinallyReact로 구축됨).
 
 ### FinallyReact를 사용하는 사이트
-- [FinallyPlanning](https://finallyplanning.com)
-- [dotfinally](https://dotfinally.com)
+- [Humanity Is Evil](https://humanityisevil.com)
 
 ## 프로젝트에서 사용하기
 
@@ -63,7 +62,7 @@ CSS 번들 크기를 줄이기 위해 PostCSS와 PurgeCSS를 사용할 수 있�
 
 ## 라이선스
 
-저작권 © 2023-current `dotfinally, LLC`
+저작권 © 2023-current `machinellama, LLC`
 
 MIT 라이선스 하에 사용 가능하며, 이는 누구나 무료로 어떤 목적으로든 FinallyReact를 사용할 수 있음을 의미합니다. 라이선스의 전문은 저장소의 LICENSE.txt 파일에서 읽을 수 있습니다.
 

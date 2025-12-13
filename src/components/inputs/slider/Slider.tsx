@@ -1,5 +1,5 @@
 import React, { HTMLAttributes, useEffect, useMemo, useState } from 'react';
-import { getFinallyConfig, omit } from '@util/index';
+import { getFinallyConfig, omit, dispatchChangeEvent } from '@util/index';
 import { getClassName } from './SliderStyles';
 
 export interface SliderProps extends HTMLAttributes<any> {
@@ -67,8 +67,15 @@ export function Slider(props: SliderProps) {
       }
     };
 
-    props?.onChange(newEvent);
+    props?.onChange?.(newEvent);
   };
+
+  // Emit change event when option is selected (for Form)
+  useEffect(() => {
+    if (!disabled) {
+      dispatchChangeEvent(internalValue, props.name, props.id);
+    }
+  }, [internalValue]);
 
   const handleKeyDown = (e: any) => {
     if (disabled) return;
@@ -113,7 +120,7 @@ export function Slider(props: SliderProps) {
       }
     };
 
-    props?.onChange(newEvent);
+    props?.onChange?.(newEvent);
 
     // keep native input in sync for a11y tools
     const target = e.currentTarget;

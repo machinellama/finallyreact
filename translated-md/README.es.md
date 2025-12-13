@@ -3,10 +3,10 @@
 ### Donde la simplicidad se encuentra con la funcionalidad
 
 [![npm](https://img.shields.io/npm/v/finallyreact.svg?color=005711)](https://www.npmjs.com/package/finallyreact)
-[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/README.md)
-[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ja.md)
-[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.ko.md)
-[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/dotfinally/finallyreact/blob/main/translated-md/README.zh-CN.md)
+[![en](https://img.shields.io/badge/lang-English-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/README.md)
+[![ja](https://img.shields.io/badge/lang-Japanese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ja.md)
+[![ko](https://img.shields.io/badge/lang-Korean-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.ko.md)
+[![zh-CN](https://img.shields.io/badge/lang-Simplified--Chinese-green?color=1a5296)](https://github.com/machinellama/finallyreact/blob/main/translated-md/README.zh-CN.md)
 
 FinallyReact es una biblioteca de diseño para React creada con flexibilidad y usabilidad en mente.
 
@@ -21,8 +21,7 @@ FinallyReact es una biblioteca de diseño para React creada con flexibilidad y u
 Puedes encontrar ejemplos de todos los componentes, diseños y elementos de utilidad en el [sitio web de FinallyReact](https://finallyreact.com) (construido enteramente con FinallyReact).
 
 ### Sitios que usan FinallyReact
-- [FinallyPlanning](https://finallyplanning.com)
-- [dotfinally](https://dotfinally.com)
+- [Humanity Is Evil](https://humanityisevil.com)
 
 ## Para usar en tu proyecto
 
@@ -63,7 +62,7 @@ Nota: Asegúrate de que tu contenido de purgecss incluya `node_modules/finallyre
 
 ## Licencia
 
-Derechos de autor © 2023-current `dotfinally, LLC`
+Derechos de autor © 2023-current `machinellama, LLC`
 
 Disponible bajo la licencia MIT, lo que significa que cualquiera puede usar FinallyReact de forma gratuita, para cualquier propósito. Lee el texto completo de la licencia en el archivo LICENSE.txt en el repositorio.
 

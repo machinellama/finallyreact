@@ -1,6 +1,6 @@
 ## Contribute
 
-Anyone is welcome to see source code, contribute new code, give suggestions for improvements, request new features, or report issues. If you find a problem or have an idea for a new feature, please create an Issue on [GitHub](https://github.com/dotfinally/finallyreact).
+Anyone is welcome to see source code, contribute new code, give suggestions for improvements, request new features, or report issues. If you find a problem or have an idea for a new feature, please create an Issue on [GitHub](https://github.com/machinellama/finallyreact).
 
 ### Issues
 
